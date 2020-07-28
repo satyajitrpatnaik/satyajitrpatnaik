@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**theScratchLad/theScratchLad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I am **Satyajit Patnaik**.
+I am a **frontend UI Developer**.
+Experienced in **React**, **Angular**, **Spring Boot**.
+Worked in setting up **CI/CD** pipelines using *Jenkins, Docker Registry hosted on Artifactory and Spinnaker for deployment*.
+I have worked with DCOS and AWS cloud providers.
+I am a AWS Certified Developer - Associate**
+**Polyglot coder** skilled in *JavaScript* and *Java*.
 
-Here are some ideas to get you started:
+> I am currently working for **Western Digital Corporation** as a *Staff Engineer*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I am open to collaboration and employment to any technological organisation outside India.
+Please feel free to reach out to me.
+
+> **Email** - *bvr.satyajit.patnaik@gmail.com*
