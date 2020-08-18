@@ -1,6 +1,6 @@
 ## Hi there, I am Satyajit Patnaik 👋 :octocat: :computer: :bearded_person:
 
-:small_blue_diamond: I am a **frontend UI Developer**.  
+:small_blue_diamond: I am a **frontend Web Developer**.  
 :small_blue_diamond: **7 years of Web Application Development.**  
 :small_blue_diamond: **React**, **Angular**, **Spring Boot**.  
 :small_blue_diamond: **AWS Certified Developer - Associate**.  
