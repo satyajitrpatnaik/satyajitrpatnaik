@@ -9,11 +9,10 @@
 :small_blue_diamond: **Cloud Experience** | **DCOS** and **AWS** cloud providers.  
 :small_blue_diamond: **Programming Languages** | *JavaScript* and *Java*.  
 
-### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" ][linkedin]
-[<img align="left" alt="codeSTACKr | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" ][stackoverflow]
-
-<br />
+**Connect with me:**  
+- [Linkedin](https://www.linkedin.com/in/patnaiksatyajit/)  
+- [Stackoverflow](https://stackoverflow.com/users/2830164/satyajit-patnaik)  
+- [Github](https://github.com/satyajitrpatnaik)
 
 ### 
 
@@ -23,7 +22,11 @@
 > **Email** - *bvr.satyajit.patnaik@gmail.com*  
 
 <br />
-<br />
 
-[linkedin]: https://www.linkedin.com/in/patnaiksatyajit/
-[stackoverflow]: https://stackoverflow.com/users/2830164/satyajit-patnaik
+📕 **Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [MultipartFile uploads from a ReactJS UI to a Spring Boot service](https://medium.com/@satyajitpatnaik/multipartfile-uploads-from-a-reactjs-ui-to-a-spring-boot-service-fdaeef9743dc)
+- [How to download a file from the resources folder in a Spring Boot application?](https://medium.com/@satyajitpatnaik/how-to-download-a-file-from-the-resources-folder-in-a-spring-boot-application-8570b1f16206)
+<!-- BLOG-POST-LIST:END -->
+
+<br />
