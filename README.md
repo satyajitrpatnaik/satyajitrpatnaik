@@ -1,16 +1,18 @@
-### Hi 👋
+### Hi there, I am Satyajit Patnaik 👋 :octocat:
+## My GITHUB username is `satyajitrpatnaik`. :computer: :bearded_person:
 
-> I am **Satyajit Patnaik**.
-I am a **frontend UI Developer**.
-Experienced in **React**, **Angular**, **Spring Boot**.
-Worked in setting up **CI/CD** pipelines using *Jenkins, Docker Registry hosted on Artifactory and Spinnaker for deployment*.
-I have worked with DCOS and AWS cloud providers.
-I am a **AWS Certified Developer - Associate**.
-I am a **Polyglot coder** skilled in *JavaScript* and *Java*.
+:small_blue_diamond: I am a **frontend UI Developer**.
+:small_blue_diamond: **7 years of Web Application Development.**
+:small_blue_diamond: **React**, **Angular**, **Spring Boot**.
+:small_blue_diamond: **AWS Certified Developer - Associate**.
+:small_blue_diamond: **DevOps Experience** | **CI/CD** pipelines using *Git Bitbucket, Jenkins, Docker Registry hosted on Artifactory and Spinnaker for deployment*.
+:small_blue_diamond: **Cloud Experience** | **DCOS** and **AWS** cloud providers.
+:small_blue_diamond: **Programming Languages** | *JavaScript* and *Java*.
 
-> I am currently working for **Western Digital Corporation** as a *Staff Engineer*.
+> Currently working for **Western Digital Corporation** as a *Staff Engineer*.
 
-> I am open to collaboration and employment to any technological organisation outside India.
-Please feel free to reach out to me.
+> Aiming to contribute to Open Source Projects.
+
+> Open to collaboration on Web Application Development Ideas.
 
 > **Email** - *bvr.satyajit.patnaik@gmail.com*
