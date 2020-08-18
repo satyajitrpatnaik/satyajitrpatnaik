@@ -1,5 +1,4 @@
-## Hi there, I am Satyajit Patnaik 👋 :octocat:
-#### My GITHUB username is `satyajitrpatnaik`. :computer: :bearded_person:
+## Hi there, I am Satyajit Patnaik 👋 :octocat: :computer: :bearded_person:
 
 :small_blue_diamond: I am a **frontend UI Developer**.  
 :small_blue_diamond: **7 years of Web Application Development.**  
