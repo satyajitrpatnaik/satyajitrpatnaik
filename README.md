@@ -9,10 +9,21 @@
 :small_blue_diamond: **Cloud Experience** | **DCOS** and **AWS** cloud providers.  
 :small_blue_diamond: **Programming Languages** | *JavaScript* and *Java*.  
 
+### Connect with me:
+[https://i.stack.imgur.com/gVE0j.png][Linkedin]
+[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg][Stackoverflow]
+
+<br />
+
+### 
+
 > Currently working for **Western Digital Corporation** as a *Staff Engineer*.  
-
 > Aiming to contribute to Open Source Projects.  
-
 > Open to collaboration on Web Application Development Ideas.  
-
 > **Email** - *bvr.satyajit.patnaik@gmail.com*  
+
+<br />
+<br />
+
+[Linkedin]: https://www.linkedin.com/in/patnaiksatyajit/
+[Stackoverflow]: https://stackoverflow.com/users/2830164/satyajit-patnaik
