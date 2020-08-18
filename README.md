@@ -10,8 +10,8 @@
 :small_blue_diamond: **Programming Languages** | *JavaScript* and *Java*.  
 
 ### Connect with me:
-[https://i.stack.imgur.com/gVE0j.png][Linkedin]
-[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg][Stackoverflow]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" ][linkedin]
+[<img align="left" alt="codeSTACKr | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" ][stackoverflow]
 
 <br />
 
@@ -25,5 +25,5 @@
 <br />
 <br />
 
-[Linkedin]: https://www.linkedin.com/in/patnaiksatyajit/
-[Stackoverflow]: https://stackoverflow.com/users/2830164/satyajit-patnaik
+[linkedin]: https://www.linkedin.com/in/patnaiksatyajit/
+[stackoverflow]: https://stackoverflow.com/users/2830164/satyajit-patnaik
