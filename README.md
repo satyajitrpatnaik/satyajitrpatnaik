@@ -22,6 +22,9 @@
 
 <br />
 
+:point_right: **Open Source Contributions**
+- Created a npm package for create-react-app template with some needed basic wiring and dependencies. https://www.npmjs.com/package/cra-template-jest-matui-redux
+
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [MultipartFile uploads from a ReactJS UI to a Spring Boot service](https://medium.com/@satyajitpatnaik/multipartfile-uploads-from-a-reactjs-ui-to-a-spring-boot-service-fdaeef9743dc)
